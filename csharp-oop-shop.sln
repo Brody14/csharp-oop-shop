@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-oop-shop", "csharp-oop-shop\csharp-oop-shop.csproj", "{80ED4C2B-CAEC-4919-93FE-D9C0B0BC07F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus", "Bonus\Bonus.csproj", "{F3BA35BC-C806-4F0E-8BBC-CA8099E27BFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{80ED4C2B-CAEC-4919-93FE-D9C0B0BC07F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80ED4C2B-CAEC-4919-93FE-D9C0B0BC07F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80ED4C2B-CAEC-4919-93FE-D9C0B0BC07F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BA35BC-C806-4F0E-8BBC-CA8099E27BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BA35BC-C806-4F0E-8BBC-CA8099E27BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BA35BC-C806-4F0E-8BBC-CA8099E27BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BA35BC-C806-4F0E-8BBC-CA8099E27BFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
